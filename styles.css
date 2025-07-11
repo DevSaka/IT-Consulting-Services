@@ -211,7 +211,7 @@ header {
 @media (max-width: 768px) {
   hero {
     padding: 100px 20px;
-    height: auto;
+    height: 90vh;
     text-align: center;
   }
   
