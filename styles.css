@@ -120,6 +120,11 @@ header {
   .container {
     flex-direction: row;
   }
+
+  .icon-box {
+      width: 40px;
+      height: auto;
+  }
 }
 
 
