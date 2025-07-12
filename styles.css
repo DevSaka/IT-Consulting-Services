@@ -224,7 +224,7 @@ header {
     gap: 10px;
   }
   .btn {
-    width: auto;
+    width: 100%;
   }
 }
 
